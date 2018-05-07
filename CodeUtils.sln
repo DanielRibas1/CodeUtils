@@ -11,15 +11,15 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{3ADA0FA7-230
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "test", "test", "{19DBEA11-0FD9-4846-B1D9-2A34071F83AA}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Codecs.Test", "Codecs.Test\Codecs.Test.csproj", "{6352E8B1-229A-4B13-BB2A-AB01A13D8667}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Codecs.Test", "test\Codecs.Test\Codecs.Test.csproj", "{6352E8B1-229A-4B13-BB2A-AB01A13D8667}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DataCollections.Test", "DataCollections.Test\DataCollections.Test.csproj", "{1F580F05-0CCA-4CFF-A8E8-F3B354552534}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DataCollections.Test", "test\DataCollections.Test\DataCollections.Test.csproj", "{1F580F05-0CCA-4CFF-A8E8-F3B354552534}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DocTrasnsform", "DocTrasnsform\DocTrasnsform.csproj", "{54325EFF-9662-4B57-B16B-F9827A0AE550}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DocTrasnsform", "src\DocTrasnsform\DocTrasnsform.csproj", "{54325EFF-9662-4B57-B16B-F9827A0AE550}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DocTransform.Test", "DocTransform.Test\DocTransform.Test.csproj", "{AC484BF2-8EC6-47FC-8076-D30C2632C816}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DocTransform.Test", "test\DocTransform.Test\DocTransform.Test.csproj", "{AC484BF2-8EC6-47FC-8076-D30C2632C816}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JobPools", "JobPools\JobPools.csproj", "{44B8AC36-0628-4FA0-ADA2-710490BBDE61}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JobPools", "src\JobPools\JobPools.csproj", "{44B8AC36-0628-4FA0-ADA2-710490BBDE61}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

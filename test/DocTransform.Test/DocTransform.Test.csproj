@@ -14,7 +14,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\DocTrasnsform\DocTrasnsform.csproj" />
+    <ProjectReference Include="..\..\src\DocTrasnsform\DocTrasnsform.csproj" />    
   </ItemGroup>
 
   <ItemGroup>

@@ -14,7 +14,13 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\src\Codecs\Codecs.csproj" />
+    <ProjectReference Include="..\..\src\DataCollections\DataCollections.csproj" />    
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Update="Files\CodeList.json">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
   </ItemGroup>
 
 </Project>
